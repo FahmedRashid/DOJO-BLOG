@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nThis is just a test data that i would like to use.",
+      "author": "Fahmed",
+      "id": "1"
+    },
+    {
+      "id": "3270",
+      "title": "React JS Blog Page Demo",
+      "body": "This page was created using React JS only. It currently does not connect to a database and does not have JWT-based login or authentication implemented yet. The purpose of this demo is to showcase the frontend structure and basic routing setup.",
+      "author": "Fahmed"
+    },
+    {
+      "id": "3830",
+      "title": "Learning MERN Stack",
+      "body": "This is a simple blog page built with React JS. Although backend integration and authentication are not yet included, I am very interested in learning the MERN stack and plan to expand this project further with MongoDB, Express, and Node.js.",
+      "author": "Rashid"
+    }
+  ]
+}
